@@ -1,6 +1,6 @@
-IG-OSINT
+IG-Stealer
 ----
-IG-OSINT is a tool used to extract information from other people's/yourself Instagram accounts without logging in/blocking
+IG-Stealer is a tool used to extract information from other people's/yourself Instagram accounts without logging in/blocking
 
 Results
 ----
@@ -42,8 +42,8 @@ Commands
 ----
 `apt install git`
 
-`git clone https://github.com/t0mxplo1t/IG-OSINT.git`
+`git clone https://github.com/Heroboycloud/IG-stealer.git`
 
-`cd IG-OSINT`
+`cd IG-Stealer`
 
 `python ig.py`
